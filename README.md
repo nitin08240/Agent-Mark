@@ -108,7 +108,7 @@ AgentMark/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/Abhishek01112002/AgentMark.git
+git clone https://github.com/nitin08240/Agent-Mark
 cd AgentMark
 ```
 
